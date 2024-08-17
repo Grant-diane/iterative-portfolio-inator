@@ -28,7 +28,7 @@ sticky-bar.evening {
     position: fixed;
     top: 0;
     left: 200px; /* Adjust to account for the width of the sticky bar */
-    width: calc(100% - 1400px); /* Adjust width to account for the sticky bar */
+    width: calc(100% - 1200px); /* Adjust width to account for the sticky bar */
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     padding: 5px 10px; /* Reduced padding */
